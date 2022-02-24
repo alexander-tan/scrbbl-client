@@ -1,1 +1,0 @@
-# scrbbl-client
