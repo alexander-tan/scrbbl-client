@@ -14,7 +14,7 @@ import "./styles/index.scss";
 Vue.config.productionTip = false;
 
 /* Establish Connection */
-const socketConnection = SocketIO('https://scrbbl-server.herokuapp.com/',{ // http://192.168.68.117:5050', {
+const socketConnection = SocketIO('https://scrbbl-test.herokuapp.com/',{ // http://192.168.68.117:5050', {
   withCredentials: false,
 });
 
